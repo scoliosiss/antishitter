@@ -1,0 +1,8 @@
+{
+  "name": "dungeonshitters",
+  "description": "warns you when extremely skilled players join your party",
+  "author": "Scalesy",
+  "entry": "dungeonshitters.js",
+  "requires":["requestV2"],
+  "version":"1.0"
+}
